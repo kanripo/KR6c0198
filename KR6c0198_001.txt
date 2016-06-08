@@ -1,5 +1,5 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:36.993231
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:47
 #+TITLE: 挾註波羅蜜多心經
 #+PROPERTY: CBETA_ID T85n2747
 #+PROPERTY: ID KR6c0198
