@@ -1,19 +1,18 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 19:46:36.993231
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 14:47
 #+TITLE: 挾註波羅蜜多心經
 #+PROPERTY: CBETA_ID T85n2747
 #+PROPERTY: ID KR6c0198
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 85, No. 2747
 #+PROPERTY: VOL 85
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6c0198_T_001-0169b> 
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.2747[cf.No.251]¶
-
- 挾註波羅蜜多心經¶
+No. 2747 [cf. No. 251]¶
+挾註波羅蜜多心經¶
 ¶
 
 般若波羅蜜多心經(般若波羅□□□□□□□□□之一字此經□□□□□□□□¶
